@@ -18,8 +18,21 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0078-subsets) |
+| [0229-majority-element-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
