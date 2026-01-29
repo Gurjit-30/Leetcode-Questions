@@ -14,11 +14,13 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0078-subsets) |
 ## Array
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
