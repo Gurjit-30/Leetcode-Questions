@@ -20,6 +20,7 @@
 | [0078-subsets](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,4 +41,5 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
