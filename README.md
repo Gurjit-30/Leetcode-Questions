@@ -19,6 +19,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
