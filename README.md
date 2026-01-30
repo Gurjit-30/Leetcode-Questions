@@ -24,6 +24,7 @@
 | [0078-subsets](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
 ## Bit Manipulation
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
