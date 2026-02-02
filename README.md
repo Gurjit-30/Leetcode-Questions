@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0046-permutations) |
@@ -72,6 +73,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0704-binary-search) |
 ## Greedy
@@ -79,4 +81,8 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
