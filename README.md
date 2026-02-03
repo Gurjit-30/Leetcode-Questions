@@ -10,6 +10,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0509-fibonacci-number) |
@@ -89,6 +90,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -97,5 +99,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
