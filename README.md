@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Backtracking
 |  |
@@ -85,4 +86,16 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
