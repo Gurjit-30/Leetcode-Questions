@@ -1,22 +1,29 @@
 class Solution {
-    public void help(int[] arr,int tar,int s,List<List<Integer>> ans,List<Integer> cur){
+    HashSet<List<Integer>> se=new HashSet<>();
+    public void help(int[] arr,int tar,int i,List<Integer> cur,List<List<Integer>>ans){
+        if(i==arr.length || tar<0){
+            return ;
+        }
         if(tar==0){
+            if(se.contains(cur)){
+ return;
+            }
             ans.add(new ArrayList<>(cur));
-            return ;
-        } 
-        if(tar<0){
-            return ;
+ se.add(cur);
+ 
+            return;
         }
-        for(int i=s;i<arr.length;i++){
+       
             cur.add(arr[i]);
-            help(arr,tar-arr[i],i,ans,cur);
-            cur.remove(cur.size() - 1);
-        }
+            help(arr,tar-arr[i],i+1,cur,ans);
+            help(arr,tar-arr[i],i,cur,ans);
+            cur.remove(cur.size()-1);
+            help(arr,tar,i+1,cur,ans);
+        
     }
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> ans=new ArrayList<>();
-        help(candidates,target,0,ans,new ArrayList<>());
-        return ans;
-        
+         List<List<Integer>> ans=new ArrayList<>();
+         help(candidates,target,0,new ArrayList<>(),ans);
+         return ans;
     }
 }
