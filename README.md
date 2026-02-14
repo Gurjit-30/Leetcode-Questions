@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -126,4 +129,5 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
