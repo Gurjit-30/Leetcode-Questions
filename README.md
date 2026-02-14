@@ -112,5 +112,18 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0322-coin-change) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
