@@ -1,38 +1,15 @@
 class Solution {
-    public static int cg(int[] coins,int tar,int[] arr){
-         if(tar==0){
-            return 0;
-        }
-        if(tar<0){
-            return Integer.MAX_VALUE;
-
-        }
-        if(arr[tar]!=-1){
-            return arr[tar];
-        }
-         int mi=Integer.MAX_VALUE;
-        for(int i=0;i<coins.length;i++){
-           
-            int ans=cg(coins,tar-coins[i],arr);
-           
-            if(ans!=Integer.MAX_VALUE){
-                 
-                mi=Math.min(mi,ans+1);
-
+    public int coinChange(int[] coins, int amount) {
+        int[] dp=new int[amount+1];
+        Arrays.fill(dp,Integer.MAX_VALUE);
+        dp[0]=0;
+        for(int i=1;i<=amount;i++){
+            for(int ele:coins){
+                if(i>=ele && dp[i-ele]!=Integer.MAX_VALUE){
+                    dp[i]=Math.min(dp[i],dp[i-ele]+1);
+                }
             }
         }
-        arr[tar]=mi;
-        return arr[tar];
-    }
-    public int coinChange(int[] coins, int tar) {
-        int[] arr=new int[tar+1];
-        Arrays.fill(arr,-1);
-        if(cg(coins,tar,arr)!=Integer.MAX_VALUE){
-            return cg(coins,tar,arr);
-        }else{
-            return -1;
-        }
-
-       
+        return (dp[amount]==Integer.MAX_VALUE)?-1:dp[amount];
     }
 }
