@@ -123,6 +123,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
@@ -130,14 +131,20 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
