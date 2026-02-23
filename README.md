@@ -25,6 +25,7 @@
 | [0022-generate-parentheses](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0078-subsets) |
 ## Array
 |  |
@@ -34,6 +35,7 @@
 | [0039-combination-sum](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
