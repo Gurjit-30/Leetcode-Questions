@@ -40,6 +40,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0322-coin-change) |
 ## Tree
 |  |
@@ -136,6 +138,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -149,4 +152,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
