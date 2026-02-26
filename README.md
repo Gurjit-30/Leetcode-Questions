@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
@@ -81,6 +82,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
