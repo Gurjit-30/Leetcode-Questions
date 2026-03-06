@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0039-combination-sum) |
@@ -59,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/Gurjit-30/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
